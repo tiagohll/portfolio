@@ -1,0 +1,9 @@
+export { Tiagohll as TiagohllLogo } from "./svg/tiagohll";
+export { CChat as CChatTypograph } from "./svg/cchat";
+export { CChat as CChatLogo } from "./svg/cchat-logo";
+export { Avatar as User } from "./svg/user";
+export { Folder as FolderLogo } from "./svg/folder";
+export { Github as GithubLogo } from "./svg/github";
+export { Typescript as Ts } from "./svg/typescript";
+export { Nextjs as NextJs } from "./svg/nextjs";
+export { Tailwindcss as Tailwind } from "./svg/tailwindcss";
